@@ -71,4 +71,5 @@ VALUES (3, CURDATE(), 9, 'Exceptional leadership and coding skills!');
 Now check the promotions table:
 SELECT * FROM Promotions;
 
-![ERD Diagram](https://github.com/Unbornmoral/Week-8-assignment-on-PLP-Database-Management/blob/main/https://github.com/Unbornmoral/Week-8-assignment-on-PLP-Database-Management/blob/main/screenshot.png)
+THIS IS THE ERM FILE
+![ERD Diagram](https://github.com/Unbornmoral/Week-8-assignment-on-PLP-Database-Management/blob/main/Untitled.png)
